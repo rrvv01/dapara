@@ -1,6 +1,7 @@
 import AddToCart from '@/components/AddToCart'
 import ProductRate from '@/components/ProductRate'
 import { data } from '@/utils/data'
+import { data } from '@/utils/outer'
 import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
